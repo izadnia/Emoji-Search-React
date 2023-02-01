@@ -1,0 +1,14 @@
+.header{
+
+    justify-content: center;
+    align-items: center;
+    background-color: lightskyblue;
+
+
+
+}
+.header h3{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}

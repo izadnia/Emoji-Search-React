@@ -1,0 +1,18 @@
+.home{
+    display: flex;
+    justify-content: space-between;
+}
+.info{
+    width: 50%;
+}
+.user{
+    width: 50%;
+}
+.textArea{
+    width: 350px;
+    height: 350px;
+    border: 2px solid lightskyblue;
+    border-radius: 10px;
+    font-size: 20px;
+
+}
