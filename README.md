@@ -1,10 +1,19 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-## Emoji recommender
+# Emoji recommender 😜
 
 a react-based project that recommends you emojies 😚 while you are typing..
+in fact the app capture the text from user and searches among all the keywords
+in an json file containg all the emojies.
 
+first page is the textarea page 📄
+
+second page is the sources 📃
+
+
+
+## Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
